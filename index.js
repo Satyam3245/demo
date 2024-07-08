@@ -5,3 +5,6 @@ const add = 1231241;
 function addName(){
     console.log("hello!")
 }
+function tellAge(){
+    console.log("Age is 19")
+}
